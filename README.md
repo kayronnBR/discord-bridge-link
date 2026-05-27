@@ -137,7 +137,5 @@ Se você não quiser rodar o script manualmente toda vez que ligar o computador,
  5. Salve e pronto! O áudio estará cruzado automaticamente a cada login.
 ## 📄 Créditos e Inspiração
 Baseado nos conceitos iniciais de roteamento virtual para Linux encontrados em Virtual-Cables-Linux.
-```
 
-```
-
+caso queria usar em outros aplicativos você consegue mudando o microfone padrão do aplicativo e saída de som
